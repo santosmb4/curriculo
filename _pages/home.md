@@ -8,25 +8,21 @@ header:
    overlay_filter: "0.7"
    image-description: "star" 
    caption: "Sebastian Frohlich"
-excerpt: "Um momento de celebraÁ„o."
+excerpt: "Um momento de celebra√ß√£o."
 intro: 
-<<<<<<< HEAD
-   - excerpt: "As celebraÁıes s„o momentos de partilha, onde confraternizamos e agradecemos aos nossos pares pelo prÛprio momento em si. Devemos compartilhar nosso tempo, nossos sorrizos, e nossa alegria.
-   O prazer da celebraÁ„o se encerra em si, e se realiza no momento em que priorizamos o outro.
+   - excerpt: "As celebra√ß√µes s√£o momentos de partilha, onde confraternizamos e agradecemos aos nossos pares pelo pr√≥prio momento em si. Devemos compartilhar nosso tempo, nossos sorrizos, e nossa alegria.
+   O prazer da celebra√ß√£o se encerra em si, e se realiza no momento em que priorizamos o outro.
    Feliz ano que se encerra. Feliz ano que surge."
-=======
-   - excerpt: "Nada s"
->>>>>>> 22ba1fa1b4f9d3a5b87b7d2207a3406991942d35
 
 feature_row:
    - image_path: /assets/images/codeforsaopaulo.png
      alt: "code for sao paulo"
-     title: "Code For S„o Paulo"
-     excerpt: "Cidad„os criando soluÁıes para cidad„os."
+     title: "Code For S√£o Paulo"
+     excerpt: "Cidad√£os criando solu√ß√µes para cidad√£os."
    - image_path: /assets/images/david-everett-strickler-60328.jpg"
      alt: "presente"
      title: "Presente"
-     excerpt: "Presente È o momento que nos È dado."
+     excerpt: "Presente √© o momento que nos √© dado."
 ---
 
 {% include feature_row id="intro" type="center" %}
