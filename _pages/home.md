@@ -1,32 +1,28 @@
 ---
-title: "Lugares Legais"
+title: "Um momento especial"
 permalink: /
 layout: splash 
 header: 
-   overlay_color: "#064"
-   overlay_image: /assets/images/front1.png  
+   overlay_color: "#345"
+   overlay_image: /assets/images/sebastian-frohlich-167774.png  
    overlay_filter: "0.7"
-   image-description: "gates" 
-   caption: "my photo"
-excerpt: "There is full of nice places, but none is like by your side."
+   image-description: "star" 
+   caption: "Sebastian Frohlich"
+excerpt: "Um momento de celebração."
 intro: 
-   - excerpt: "Nada do que é social e humano é mais real que as utopias. Na sua vertente eutópica, as utopias constituíram sempre o fundamento simbólico e mítico sem o qual nenhuma forma de organização social se sustenta, justifica ou sobrevive. E criam, tanto na vertente eutópica como na distópica, o vocabulário da revolução e da mudança: sem os amanhãs que cantam (ou choram) teríamos, em vez de História, um presente intemporal e eterno - como o dos faraós ou o de Francis Fukuyama.
-Aldous Huxley publicou o seu Brave New World em 1932. George Orwell, que não tinha em grande conta este livro ou o seu autor, publicou 17 anos depois a sua própria distopia, Nineteen Eighty-Four. Entre estas duas datas interpôs-se a Segunda Grande Guerra: não admira que na primeira a técnica básica da opressão do Estado fosse a manipulação genética e que na segunda, depois do descrédito em que o regime nazi lançou o eugenismo, as técnicas principais da opressão sejam a lavagem ao cérebro, a crueldade gratuita e a manipulação da linguagem.
-Apesar desta e de outras diferenças, os dois textos foram muitas vezes lidos, nas décadas seguintes, como os dois pólos - um hedonista, outro o oposto disto - duma mes"
+   - excerpt: "As celebrações são momentos de partilha, onde confraternizamos e agradecemos aos nossos pares pelo próprio momento em si. Devemos compartilhar nosso tempo, nossos sorrizos, e nossa alegria.
+   O prazer da celebração se encerra em si, e se realiza no momento em que priorizamos o outro.
+   Feliz ano que se encerra. Feliz ano que surge."
 
 feature_row:
-   - image_path: /assets/images/redwall-wm.png
-     alt: "night street"
-     title: "Moments"
-     excerpt: "There are moments where is nice to be."
-   - image_path: /assets/images/bubbles-wm.png
-     alt: "bubbles"
-     title: "Actions"
-     excerpt: "There are actions that make places specials ones."
-   - image_path: /assets/images/liberty-wm.png
-     alt: "liberty"
-     title: "Esta errado"
-     excerpt: "There are funnny things at every special place."
+   - image_path: /assets/images/codeforsaopaulo.png
+     alt: "code for sao paulo"
+     title: "Code For São Paulo"
+     excerpt: "Cidadãos criando soluções para cidadãos."
+   - image_path: /assets/images/david-everett-strickler-60328.jpg"
+     alt: "presente"
+     title: "Presente"
+     excerpt: "Presente é o momento que nos é dado."
 ---
 
 {% include feature_row id="intro" type="center" %}
