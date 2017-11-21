@@ -25,10 +25,10 @@ feature_row:
      caption: "David Everett Strickler"
      excerpt: "Presente é o momento que nos é dado."
      url: "/about/"
-   - image_path: /assets/images/david-everett-strickler-60328.jpg
+   - image_path: /assets/images/gareth-harper-175342.jpg
      alt: "presepio"
      title: "Presépio"
-     caption: "David"
+     caption: "Gareth Harper"
      excerpt: "A simplicidade completa."
      url: "/about/"
 ---
