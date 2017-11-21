@@ -1,46 +1,20 @@
+Code For São Paulo - Minimal Mistakes - Base Repo
+
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![GitHub release](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://github.com/mmistakes/minimal-mistakes/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Minimal Mistakes é um tema popular para Jekyll. É muito fácil criar um site pessoal, um blog ou um MVP a partir deste projeto. Este fork do Code For São Paulo foi criado para servir de tutorial tanto para o uso do tema e do Jekyll, quanto para tutoriais. :smile:.
 
-:sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
+:sparkles: Optamos por dimunir esta versão em relação ao que pode ser encontrado no site original. E por isso incentivamos sempre a buscarem a documentação do site original.
+
+Uma versão ao vivo do site pode ser encontrada em:
 
 [![Minimal Mistakes live preview][2]][1]
 
-[1]: https://mmistakes.github.io/minimal-mistakes/
-[2]: screenshot.png (live preview)
+Exemplos de layout de páginas podem ser encontrados em:
 
 ![layout examples](screenshot-layouts.png)
-
-## Notable Features
-
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Indonesian, Italian (Italiano), Korean, Nepali (Nepalese), Polish, Russian, Spanish (Español), Swedish, Turkish (Türkçe), and Vietnamese.
-
-## Skins (Color Variations)
-
-This theme comes in nine different skins (including the default one).
-
-| `air` | `contrast` | `dark` |
-| --- | --- | --- |
-| ![air skin](https://mmistakes.github.io/minimal-mistakes/assets/images/air-skin-archive.png) | ![contrast skin](https://mmistakes.github.io/minimal-mistakes/assets/images/contrast-skin-archive.png) | ![dark skin](https://mmistakes.github.io/minimal-mistakes/assets/images/dark-skin-archive.png) |
-
-| `dirt` | `mint` | `sunrise` |
-| --- | --- | --- |
-| ![dirt skin](https://mmistakes.github.io/minimal-mistakes/assets/images/dirt-skin-archive.png) | ![mint skin](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive.png) | ![sunrise skin](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive.png) |
-
-| `aqua` | `neon` | `plum` |
-| --- | --- | --- |
-| ![aqua skin](https://mmistakes.github.io/minimal-mistakes/assets/images/aqua-skin-archive.png) | ![neon skin](https://mmistakes.github.io/minimal-mistakes/assets/images/neon-skin-archive.png) | ![plum skin](https://mmistakes.github.io/minimal-mistakes/assets/images/plum-skin-archive.png) |
 
 ## Demo Pages
 
@@ -65,7 +39,7 @@ Additional sample posts are available under [posts archive][year-archive] on the
 [tags-archive]: https://mmistakes.github.io/minimal-mistakes/tags/
 [year-archive]: https://mmistakes.github.io/minimal-mistakes/year-archive/
 
-## Installation
+## Instalação - mantivemos aqui as instruções de instalação, mas recomendamos que sempre olhe no site original.
 
 There are three ways to install the theme: as a Ruby gem (for self-hosted sites), as a Ruby gem + jekyll-remote-theme plugin (GitHub Pages hosted sites), or forking/directly copying all of the theme files into your project.
 
@@ -124,30 +98,6 @@ To update the theme run `bundle update`.
 For detailed instructions on how to configure, customize, add/migrate content, and more read the [theme's documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
 ---
-
-## Contributing
-
-Having trouble working with the theme? Found a typo in the documentation? Interested in adding a feature or [fixing a bug](https://github.com/mmistakes/minimal-mistakes/issues)? Then by all means [submit an issue](https://github.com/mmistakes/minimal-mistakes/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
-
-Minimal Mistakes has been designed as a base for you to customize and fit your site's unique needs. Please keep this in mind when requesting features and/or submitting pull requests. If it's not something that most people will use, I probably won't consider it. When in doubt ask. 
-
-This goes for author sidebar links and "share button" additions -- I have no intention of merging in every possibly option, the essentials are there to get you started :smile:.
-
-### Pull Requests
-
-When submitting a pull request:
-
-1. Clone the repo.
-2. Create a branch off of `master` and give it a meaningful name (e.g. `my-awesome-new-feature`).
-3. Open a pull request on GitHub and describe the feature or fix.
-
-Theme documentation and demo pages can be found in the [`/docs`](docs) if submitting improvements, typo corrections, etc.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-To test the theme, run `bundle exec rake preview` and open your browser at `http://localhost:4000/test/`. This starts a Jekyll server using content in the `test/` directory. As modifications are made to the theme and test site, it will regenerate and you should see the changes in the browser after a refresh.
 
 ---
 
