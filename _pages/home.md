@@ -16,16 +16,19 @@ feature_row:
    - image_path: /assets/images/robert-lamb-5397.jpg
      alt: "bridge"
      title: "Pont"
+     caption: "Robert Lamb"
      excerpt: "Cidadãos criando soluções para cidadãos."
      url: "/about/"
    - image_path: /assets/images/david-everett-strickler-60328.jpg
      alt: "presente"
      title: "Presente"
+     caption: "David Everett Strickler"
      excerpt: "Presente é o momento que nos é dado."
      url: "/about/"
    - image_path: /assets/images/david-everett-strickler-60328.jpg
      alt: "presepio"
      title: "Presépio"
+     caption: "David"
      excerpt: "A simplicidade completa."
      url: "/about/"
 ---
