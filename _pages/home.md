@@ -3,8 +3,8 @@ title: "Um momento especial"
 permalink: /
 layout: splash 
 header: 
-   overlay_color: "#345"
-   overlay_image: /assets/images/sebastian-frohlich-167774.png  
+   overlay_color: "#FFFFFF"
+   overlay_image: /assets/images/sebastian-frohlich-167774.jpg  
    overlay_filter: "0.7"
    image-description: "star" 
    caption: "Sebastian Frohlich"
@@ -17,10 +17,17 @@ feature_row:
      alt: "code for sao paulo"
      title: "Code For São Paulo"
      excerpt: "Cidadãos criando soluções para cidadãos."
-   - image_path: /assets/images/david-everett-strickler-60328.jpg"
+     url: "/about/"
+   - image_path: /assets/images/david-everett-strickler-60328.jpg
      alt: "presente"
      title: "Presente"
      excerpt: "Presente é o momento que nos é dado."
+     url: "/about/"
+   - image_path: /assets/images/david-everett-strickler-60328.jpg
+     alt: "presente"
+     title: "Presente"
+     excerpt: "Presente é o momento que nos é dado."
+     url: "/about/"
 ---
 
 {% include feature_row id="intro" type="center" %}
