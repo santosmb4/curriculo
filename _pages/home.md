@@ -13,9 +13,9 @@ intro:
    - excerpt: "As celebrações são momentos de partilha, onde confraternizamos e agradecemos aos nossos pares pelo próprio momento em si. Devemos compartilhar nosso tempo, nossos sorrizos, e nossa alegria. O prazer da celebração se encerra em si, e se realiza no momento em que priorizamos o outro. Feliz ano que se encerra. Feliz ano que surge."
 
 feature_row:
-   - image_path: /assets/images/codeforsaopaulo.png
-     alt: "code for sao paulo"
-     title: "Code For São Paulo"
+   - image_path: /assets/images/robert-lamb-5397.jpg
+     alt: "bridge"
+     title: "Pont"
      excerpt: "Cidadãos criando soluções para cidadãos."
      url: "/about/"
    - image_path: /assets/images/david-everett-strickler-60328.jpg
@@ -24,9 +24,9 @@ feature_row:
      excerpt: "Presente é o momento que nos é dado."
      url: "/about/"
    - image_path: /assets/images/david-everett-strickler-60328.jpg
-     alt: "presente"
-     title: "Presente"
-     excerpt: "Presente é o momento que nos é dado."
+     alt: "presepio"
+     title: "Presépio"
+     excerpt: "A simplicidade completa."
      url: "/about/"
 ---
 
