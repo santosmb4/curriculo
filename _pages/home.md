@@ -10,9 +10,13 @@ header:
    caption: "Sebastian Frohlich"
 excerpt: "Um momento de celebração."
 intro: 
+<<<<<<< HEAD
    - excerpt: "As celebrações são momentos de partilha, onde confraternizamos e agradecemos aos nossos pares pelo próprio momento em si. Devemos compartilhar nosso tempo, nossos sorrizos, e nossa alegria.
    O prazer da celebração se encerra em si, e se realiza no momento em que priorizamos o outro.
    Feliz ano que se encerra. Feliz ano que surge."
+=======
+   - excerpt: "Nada s"
+>>>>>>> 22ba1fa1b4f9d3a5b87b7d2207a3406991942d35
 
 feature_row:
    - image_path: /assets/images/codeforsaopaulo.png
