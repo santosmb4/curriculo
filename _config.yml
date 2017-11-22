@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "pt-BR"
 title                    : "Marcos Abreu"
 title_separator          : "-"
 name                     : "Desenvolvedor de Software"
