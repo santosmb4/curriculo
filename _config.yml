@@ -16,7 +16,7 @@ description              : "É fácil montar sites com Jekyll."
 url                      : # the base hostname & protocol for your site e.g. "https://code-for-sao-paulo.github.io/mmistakes-sp/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name 
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/codeforsaopaulo.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
