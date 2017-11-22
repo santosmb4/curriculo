@@ -17,17 +17,17 @@ feature_row:
      alt: "trabalhos"
      title: "Trabalhos"
      excerpt: "Empresas onde atuei."
-     url: "/about/"
+     url: "/experiencia/"
    - image_path: /assets/images/revistas.jpg
      alt: "conhecimentos"
      title: "Conhecimentos"
      excerpt: "Experiência e conhecimentos."
-     url: "/about/"
+     url: "/conhecimentos/"
    - image_path: /assets/images/vela.jpg
      alt: "personalidade"
      title: "E ainda..."
      excerpt: "Um pouco mais sobre mim..."
-     url: "/about/"
+     url: "/personalidade/"
 ---
 
 {% include feature_row id="intro" type="center" %}
