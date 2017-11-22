@@ -1,35 +1,32 @@
 ---
-title: "Um momento especial"
+title: "Marcos Abreu"
 permalink: /
 layout: splash 
 header: 
    overlay_color: "#FFFFFF"
-   overlay_image: /assets/images/sebastian-frohlich-167774.jpg  
+   overlay_image: /assets/images/marcos.jpg 
    overlay_filter: "0.7"
    image-description: "star" 
    caption: "Sebastian Frohlich"
 excerpt: "Um momento de celebração."
 intro: 
-   - excerpt: "As celebrações são momentos de partilha, onde confraternizamos e agradecemos aos nossos pares pelo próprio momento em si. Devemos compartilhar nosso tempo, nossos sorrizos, e nossa alegria. O prazer da celebração se encerra em si, e se realiza no momento em que priorizamos o outro. Feliz ano que se encerra. Feliz ano que surge."
+   - excerpt: "Consultor de Tecnologia da Informação."
 
 feature_row:
-   - image_path: /assets/images/robert-lamb-5397.jpg
-     alt: "bridge"
-     title: "Pont"
-     caption: "Robert Lamb"
-     excerpt: "Cidadãos criando soluções para cidadãos."
+   - image_path: /assets/images/painel.jpg
+     alt: "trabalhos"
+     title: "Trabalhos"
+     excerpt: "Empresas onde atuei."
      url: "/about/"
-   - image_path: /assets/images/david-everett-strickler-60328.jpg
-     alt: "presente"
-     title: "Presente"
-     caption: "David Everett Strickler"
-     excerpt: "Presente é o momento que nos é dado."
+   - image_path: /assets/images/revistas.jpg
+     alt: "conhecimentos"
+     title: "Conhecimentos"
+     excerpt: "Experiência e conhecimentos."
      url: "/about/"
-   - image_path: /assets/images/gareth-harper-175342.jpg
-     alt: "presepio"
-     title: "Presépio"
-     caption: "Gareth Harper"
-     excerpt: "A simplicidade completa."
+   - image_path: /assets/images/vela.jpg
+     alt: "personalidade"
+     title: "E ainda..."
+     excerpt: "Um pouco mais sobre mim..."
      url: "/about/"
 ---
 
