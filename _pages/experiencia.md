@@ -4,7 +4,6 @@ permalink: /experiencia/
 layout: single
 author_profile: true
 header:
-    overlay_color: "#327"
     overlay_image: /assets/images/marcos.jpg
     image-description: "experiencia"
 # excerpt: "Minha experiência recente."
