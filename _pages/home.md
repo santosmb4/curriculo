@@ -3,11 +3,8 @@ title: "Marcos A."
 permalink: /
 layout: splash 
 header: 
-   overlay_color: "#FFFFFF"
    overlay_image: /assets/images/marcos.jpg 
-   overlay_filter: "0.7"
    image-description: "star" 
-   caption: "Sebastian Frohlich"
 excerpt: "Um momento de celebração."
 intro: 
    - excerpt: "Consultor de Tecnologia da Informação."
