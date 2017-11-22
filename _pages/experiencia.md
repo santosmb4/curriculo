@@ -7,14 +7,14 @@ header:
     overlay_color: "#327"
     overlay_image: /assets/images/marcos.jpg
     image-description: "experiencia"
-excerpt: "Minha experiência recente."
+# excerpt: "Minha experiência recente."
 categories:
     - profissional
 tags:
     - experiência
 ---
 
-Minha experiência recente apresentada da mais recente para a mais antiga
+Minha experiência da mais recente para a mais antiga.
 
 ## FH
 - [www.fh.com.br](https://www.fh.com.br/)
@@ -44,4 +44,4 @@ Minha experiência recente apresentada da mais recente para a mais antiga
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+Veja mais informações na página de referências.
