@@ -1,5 +1,5 @@
 ---
-title: "Marcos Abreu"
+title: "Marcos A."
 permalink: /
 layout: splash 
 header: 
