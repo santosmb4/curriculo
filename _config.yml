@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Título do Site - atualize"
+title                    : "Marcos Abreu"
 title_separator          : "-"
-name                     : "Code For São Paulo"
-description              : "É fácil montar sites com Jekyll."
+name                     : "Desenvolvedor de Software"
+description              : "Tecnologia e Comunidades."
 url                      : # the base hostname & protocol for your site e.g. "https://code-for-sao-paulo.github.io/mmistakes-sp/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name 
