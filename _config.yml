@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "pt-BR"
 title                    : "Marcos Abreu"
 title_separator          : "-"
-name                     : "Desenvolvedor de Software"
+name                     : "Consultor"
 description              : "Tecnologia e Comunidades."
 url                      : # the base hostname & protocol for your site e.g. "https://code-for-sao-paulo.github.io/mmistakes-sp/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -83,17 +83,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Code For São Paulo"
-  avatar           : "/assets/images/codeforsaopaulo.png"
-  bio              : "Cidadãos criando soluções para cidadãos."
+  name             : "Marcos Abreu"
+  avatar           : "/assets/images/marcosabreu.png"
+  bio              : "TI, fotografia e cozinheiro de fim de semana."
   location         : "São Paulo"
-  email            : "codeforsaopaulo@gmail.com"
+  email            : "abreums@gmail.com"
   uri              : 
   dribbble         :
   flickr           :
-  facebook         : "codeforsaopaulo"
+  facebook         : 
   foursquare       :
-  github           : "code-for-sao-paulo"
+  github           : "abreums"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "abreums"
   vine             :
   weibo            :
   xing             :
